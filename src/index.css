@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+@import '@jod/design-system/dist/main.css';
+@import '@jod/design-system/lib/theme.css';
+
+/* Needed for sticky footer */
+#root {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
