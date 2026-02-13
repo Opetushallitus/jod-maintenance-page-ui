@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@jod/design-system": "https://github.com/Opetushallitus/jod-design-system/releases/download/rel-20260213-1/jod-design-system-0.0.0.tgz",
-    "react": "^19.2.3",
+    "react": "^19.2.4",
     "react-dom": "^19.2.3"
   },
   "devDependencies": {
@@ -27,7 +27,7 @@
     "@singlestore/eslint-plugin-react-hooks-disable-import": "^1.0.2",
     "@tailwindcss/vite": "^4.1.18",
     "@types/node": "^25.0.3",
-    "@types/react": "^19.2.7",
+    "@types/react": "^19.2.13",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react-swc": "^4.2.2",
     "@vitest/coverage-v8": "^4.0.16",
