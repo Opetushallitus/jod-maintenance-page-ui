@@ -32,7 +32,7 @@ const Root = () => {
                 <span className="text-[30px] ">Maintenance in progress</span>
               </h1>
             </div>
-            <div className="flex flex-col gap-7 text-body-lg ml-11 mt-7">
+            <div className="flex flex-col gap-7 text-body-lg ml-11 mt-7 text-primary-gray">
               <p>
                 Suoritamme järjestelmän huoltotöitä parantaaksemme palvelua. Palvelu ei ole tällä hetkellä
                 käytettävissä. Yritä myöhemmin uudelleen.
