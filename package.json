@@ -16,7 +16,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@jod/design-system": "https://github.com/Opetushallitus/jod-design-system/releases/download/rel-20260331-1/jod-design-system-0.0.0.tgz",
+    "@jod/design-system": "https://github.com/Opetushallitus/jod-design-system/releases/download/rel-20260402-1/jod-design-system-0.0.0.tgz",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
