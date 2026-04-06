@@ -48,7 +48,7 @@
     "tailwindcss": "^4.2.2",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.55.0",
-    "vite": "^8.0.1"
+    "vite": "^8.0.5"
   },
   "lavamoat": {
     "allowScripts": {
