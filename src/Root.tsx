@@ -28,8 +28,8 @@ const Root = () => {
               </div>
               <h1 className="text-heading-1-mobile sm:text-heading-1 flex flex-col text-secondary-gray not-sm:gap-5">
                 <span className="sm:text-hero text-hero-mobile">Huoltokatko käynnissä</span>
-                <span className="text-[30px] sm:-mb-3">Underhåll pågår</span>
-                <span className="text-[30px] ">Maintenance in progress</span>
+                <span className="text-[1.875rem] sm:-mb-3">Underhåll pågår</span>
+                <span className="text-[1.875rem] ">Maintenance in progress</span>
               </h1>
             </div>
             <div className="flex flex-col gap-7 text-body-lg ml-11 mt-7 text-primary-gray">
