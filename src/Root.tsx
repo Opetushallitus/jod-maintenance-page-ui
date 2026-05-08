@@ -21,18 +21,18 @@ const Root = () => {
       </header>
       <main id="jod-main" role="main" className="mx-auto w-full max-w-(--breakpoint-xl)">
         <div className="mx-auto grid w-full max-w-[1140px] grow grid-cols-3 gap-6 px-5 pt-[88px] pb-[96px] sm:px-6">
-          <div className="col-span-3 flex flex-col lg:col-span-2 p-7">
+          <div className="col-span-3 flex flex-col p-7 lg:col-span-2">
             <div className="flex items-start">
-              <div className="flex shrink bg-secondary-gray rounded-full size-9 items-center justify-center mr-4">
+              <div className="mr-4 flex size-9 shrink items-center justify-center rounded-full bg-secondary-gray">
                 <JodInfo className="text-white" />
               </div>
-              <h1 className="text-heading-1-mobile sm:text-heading-1 flex flex-col text-secondary-gray not-sm:gap-5">
-                <span className="sm:text-hero text-hero-mobile">Huoltokatko käynnissä</span>
+              <h1 className="flex flex-col text-heading-1-mobile text-secondary-gray not-sm:gap-5 sm:text-heading-1">
+                <span className="text-hero-mobile sm:text-hero">Huoltokatko käynnissä</span>
                 <span className="text-[1.875rem] sm:-mb-3">Underhåll pågår</span>
-                <span className="text-[1.875rem] ">Maintenance in progress</span>
+                <span className="text-[1.875rem]">Maintenance in progress</span>
               </h1>
             </div>
-            <div className="flex flex-col gap-7 text-body-lg ml-11 mt-7 text-primary-gray">
+            <div className="mt-7 ml-11 flex flex-col gap-7 text-body-lg text-primary-gray">
               <p>
                 Suoritamme järjestelmän huoltotöitä parantaaksemme palvelua. Palvelu ei ole tällä hetkellä
                 käytettävissä. Yritä myöhemmin uudelleen.
