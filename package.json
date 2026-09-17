@@ -14,30 +14,30 @@
   },
   "dependencies": {
     "@jod/design-system": "https://github.com/Opetushallitus/jod-design-system/releases/download/rel-20260914-1/jod-design-system-0.0.0.tgz",
-    "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
   },
   "devDependencies": {
     "@lavamoat/allow-scripts": "5.1.0",
     "@lavamoat/preinstall-always-fail": "3.0.0",
     "@tailwindcss/vite": "4.3.3",
-    "@types/node": "24.1.0",
-    "@types/react": "19.2.17",
-    "@types/react-dom": "19.2.3",
+    "@types/node": "24.13.4",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
     "@typescript/native": "npm:typescript@7.0.2",
-    "@vitejs/plugin-react": "6.0.4",
-    "@vitest/coverage-v8": "4.1.10",
+    "@vitejs/plugin-react": "6.1.1",
+    "@vitest/coverage-v8": "4.1.11",
     "eslint-plugin-sonarjs": "4.2.0",
-    "globals": "17.7.0",
+    "globals": "17.12.0",
     "husky": "9.1.7",
     "jsdom": "29.1.1",
-    "lint-staged": "17.2.0",
-    "oxfmt": "0.60.0",
-    "oxlint": "1.75.0",
+    "lint-staged": "17.5.1",
+    "oxfmt": "0.67.0",
+    "oxlint": "1.82.0",
     "oxlint-tsgolint": "7.0.2001",
     "tailwindcss": "4.3.3",
     "typescript": "npm:@typescript/typescript6@6.0.2",
-    "vite": "8.1.5"
+    "vite": "8.3.0"
   },
   "devEngines": {
     "packageManager": {
